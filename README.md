@@ -23,7 +23,7 @@ A professional AI-powered Applicant Tracking System (ATS) designed specifically 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ats_screener.git
+git clone https://github.com/Anand0295/ats_screener.git
 cd ats_screener
 
 # Install dependencies
