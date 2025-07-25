@@ -2,7 +2,7 @@
 
 A professional AI-powered Applicant Tracking System (ATS) designed specifically for Junior Software Development Engineer positions. Built with Flask, Spacy NLP, and modern web technologies.
 
-![ATS Screener Demo](screenshot.png)
+![ATS Screener Demo](demo.png)
 
 ## ✨ Features
 
